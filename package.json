@@ -1,0 +1,19 @@
+{
+  "name": "x-base64",
+  "version": "1.1.0",
+  "description": "base64 for javascript",
+  "main": "x-base64.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayshon/x-base64.git"
+  },
+  "author": "wayshon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayshon/x-base64/issues"
+  },
+  "homepage": "https://github.com/wayshon/x-base64#readme"
+}
