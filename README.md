@@ -1,7 +1,7 @@
-### x-base64
+# x-base64
 js代码进行base64的编码与解码
 
-# npm
+### npm
 - 安装
 
     `npm install x-base64 --save`
@@ -16,10 +16,10 @@ js代码进行base64的编码与解码
     console.log(decode);
     ```
 
-# html页面
+### html页面
 - 安装
 
-    下载`x-base64.js`文件并用<script>标签在页面中引入
+    下载`x-base64.js`文件并用`<script>`标签在页面中引入
 - 使用
 
     ```JavaScript
